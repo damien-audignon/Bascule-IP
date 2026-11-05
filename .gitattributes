@@ -1,0 +1,5 @@
+# Fins de ligne Windows imposées : un .cmd en LF peut mal s'exécuter
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.md  text eol=crlf
+*.png binary

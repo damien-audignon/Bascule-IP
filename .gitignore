@@ -1,0 +1,8 @@
+# Profils IP enregistrés : propres à chaque poste et à chaque réseau, jamais publiés
+Profils-IP.json
+Profils-IP.json.bak
+Profils-IP.json.tmp
+*.json
+
+# Journaux
+*.log
