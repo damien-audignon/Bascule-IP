@@ -65,3 +65,7 @@ En ligne de commande, depuis une console PowerShell lancée en administrateur :
 - Changer l'adressage **coupe les connexions** qui passent par la carte (prise en main à distance, RDP, partages). Il vaut mieux utiliser un adaptateur USB dédié à la configuration du matériel.
 - Le passage en DHCP retire les IP fixes, la passerelle et les DNS fixes de la carte.
 - Seul l'IPv4 est géré.
+
+## Licence
+
+Distribué sous licence [MIT](LICENSE) : réutilisation, modification et redistribution libres, à condition de conserver la mention de copyright. Fourni « en l'état », sans garantie.
